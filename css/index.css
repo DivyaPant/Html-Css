@@ -132,7 +132,7 @@ nav {
   max-width:80rem;
   display: flex;
   justify-content: flex-end;
-  padding: 0 2.5rem;
+  padding: 0 2rem;
 }
 .navigation {
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
@@ -152,8 +152,8 @@ nav {
   margin: auto 0;
   font-weight: lighter;
   font-size: 1rem;
-  padding: 1rem 0;
-  padding-right: 2rem;
+  padding: 1rem 0.5rem;
+  margin-right: 2rem;
 }
 .max-width-nav>.right {
   display: flex;
@@ -167,8 +167,8 @@ nav {
   font-weight: lighter;
   margin: auto 0;
   font-size: 1rem;
-  padding: 1rem 0;
-  padding-right: 1rem;
+  padding: 1rem 0.5rem;
+  margin-right: 1rem;
 
  
 }
