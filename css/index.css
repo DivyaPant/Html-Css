@@ -152,8 +152,8 @@ nav {
   margin: auto 0;
   font-weight: lighter;
   font-size: 1rem;
-  padding: 1rem 0;
-  padding-right: 2rem;
+  padding: 1rem 0.5rem;
+  margin-right: 2rem;
 }
 .max-width-nav>.right {
   display: flex;
